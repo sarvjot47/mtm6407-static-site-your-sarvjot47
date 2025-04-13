@@ -2,9 +2,6 @@
 
 Name: Sarvjot Singh Student No:- 41122802
 
-Great idea, Sarvjot! Here's a clean and simple **README.md** section you can copy-paste or tweak as needed to explain the basic steps you followed using Hugo to build your hobby site:
-
----
 
 ## 📄 Project Overview
 
